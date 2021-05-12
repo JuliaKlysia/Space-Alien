@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/testroom.unity
+    guid: d38b736e45e368d448fd9c91f0041ab0
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 4790b8a0d47c8fa41987266f30278ac1
+  - enabled: 0
+    path: Assets/Scenes/password.unity
+    guid: a5486200351c13b43a48a7c2f3f62b27
+  - enabled: 1
+    path: Assets/Scenes/crewquater.unity
+    guid: c61129009b45b3243977bcef88b8c1bb
+  - enabled: 1
+    path: Assets/Scenes/death.unity
+    guid: 83d5fef5a9086bf488a18e5a400870c0
+  - enabled: 1
+    path: Assets/Scenes/corridor.unity
+    guid: e06cd86ab6736fb4383311b08ab39111
+  - enabled: 1
+    path: Assets/Scenes/green house.unity
+    guid: aa156bbfbbdd2e44fa4548788e71411c
+  - enabled: 1
+    path: Assets/Scenes/storage.unity
+    guid: ffcd3b0ff5a3d724bbb7fb0e126708e7
+  - enabled: 0
+    path: Assets/Scenes/winningscene.unity
+    guid: aa2bf6ca99eb4d74e84af4957d98934b
+  - enabled: 1
+    path: Assets/Scenes/WIN.unity
+    guid: a5cbeced96ec6514da8e1afefd9247d0
+  m_configObjects: {}
